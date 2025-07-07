@@ -1,0 +1,15 @@
+.open-sans-font {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.text-primary{ color: #FD6E0A;}
+nav {
+    display: flex;
+}
+.fontid{ font-weight: 800;
+font-size: 45px;}
