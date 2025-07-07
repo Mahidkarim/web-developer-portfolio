@@ -13,3 +13,32 @@ nav {
 }
 .fontid{ font-weight: 800;
 font-size: 45px;}
+
+nav ul{list-style: none;
+display: flex;}
+
+.font-color{ text-decoration: none;
+color: black;
+font-size: 20px;}
+
+nav ul li{margin-right: 50px;}
+nav{ align-items: center;
+justify-content: space-between; 
+margin: 0px 1%;}
+.button{background-color: #FD6E0A;border-radius: 5px;
+color: white;
+font-weight: bold;
+font-size: 20px;
+padding: 18px 35px;
+}
+ul{ align-items:center ;}
+
+
+
+
+
+
+
+
+
+
